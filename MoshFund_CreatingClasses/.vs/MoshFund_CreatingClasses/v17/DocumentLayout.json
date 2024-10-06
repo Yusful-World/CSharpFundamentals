@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MoshFund_CreatingClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACC445-1716-410C-ADA8-220CEE863F65}|MoshFund_CreatingClasses\\MoshFund_CreatingClasses.csproj|c:\\users\\admin\\source\\repos\\moshfund_creatingclasses\\moshfund_creatingclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACC445-1716-410C-ADA8-220CEE863F65}|MoshFund_CreatingClasses\\MoshFund_CreatingClasses.csproj|solutionrelative:moshfund_creatingclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACC445-1716-410C-ADA8-220CEE863F65}|MoshFund_CreatingClasses\\MoshFund_CreatingClasses.csproj|c:\\users\\admin\\source\\repos\\moshfund_creatingclasses\\moshfund_creatingclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACC445-1716-410C-ADA8-220CEE863F65}|MoshFund_CreatingClasses\\MoshFund_CreatingClasses.csproj|solutionrelative:moshfund_creatingclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACC445-1716-410C-ADA8-220CEE863F65}|MoshFund_CreatingClasses\\MoshFund_CreatingClasses.csproj|c:\\users\\admin\\source\\repos\\moshfund_creatingclasses\\moshfund_creatingclasses\\math\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACC445-1716-410C-ADA8-220CEE863F65}|MoshFund_CreatingClasses\\MoshFund_CreatingClasses.csproj|solutionrelative:moshfund_creatingclasses\\math\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_CreatingClasses\\MoshFund_CreatingClasses\\Person.cs",
+              "RelativeDocumentMoniker": "MoshFund_CreatingClasses\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_CreatingClasses\\MoshFund_CreatingClasses\\Person.cs",
+              "RelativeToolTip": "MoshFund_CreatingClasses\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:50:05.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_CreatingClasses\\MoshFund_CreatingClasses\\Math\\Calculator.cs",
+              "RelativeDocumentMoniker": "MoshFund_CreatingClasses\\Math\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_CreatingClasses\\MoshFund_CreatingClasses\\Math\\Calculator.cs",
+              "RelativeToolTip": "MoshFund_CreatingClasses\\Math\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:44:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_CreatingClasses\\MoshFund_CreatingClasses\\Program.cs",
+              "RelativeDocumentMoniker": "MoshFund_CreatingClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_CreatingClasses\\MoshFund_CreatingClasses\\Program.cs",
+              "RelativeToolTip": "MoshFund_CreatingClasses\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:29:53.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
