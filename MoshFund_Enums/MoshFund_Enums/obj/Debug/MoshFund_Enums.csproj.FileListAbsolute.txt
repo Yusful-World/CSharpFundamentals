@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_Enums\MoshFund_Enums\bin\Debug\MoshFund_Enums.exe.config
+C:\Users\Admin\source\repos\MoshFund_Enums\MoshFund_Enums\bin\Debug\MoshFund_Enums.exe
+C:\Users\Admin\source\repos\MoshFund_Enums\MoshFund_Enums\bin\Debug\MoshFund_Enums.pdb
+C:\Users\Admin\source\repos\MoshFund_Enums\MoshFund_Enums\obj\Debug\MoshFund_Enums.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_Enums\MoshFund_Enums\obj\Debug\MoshFund_Enums.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_Enums\MoshFund_Enums\obj\Debug\MoshFund_Enums.exe
+C:\Users\Admin\source\repos\MoshFund_Enums\MoshFund_Enums\obj\Debug\MoshFund_Enums.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_ReferenceValueTypes\MoshFund_ReferenceValueTypes\obj\Debug\MoshFund_ReferenceValueTypes.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_ReferenceValueTypes\MoshFund_ReferenceValueTypes\obj\Debug\MoshFund_ReferenceValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_ReferenceValueTypes\MoshFund_ReferenceValueTypes\bin\Debug\MoshFund_ReferenceValueTypes.exe.config
+C:\Users\Admin\source\repos\MoshFund_ReferenceValueTypes\MoshFund_ReferenceValueTypes\bin\Debug\MoshFund_ReferenceValueTypes.exe
+C:\Users\Admin\source\repos\MoshFund_ReferenceValueTypes\MoshFund_ReferenceValueTypes\bin\Debug\MoshFund_ReferenceValueTypes.pdb
+C:\Users\Admin\source\repos\MoshFund_ReferenceValueTypes\MoshFund_ReferenceValueTypes\obj\Debug\MoshFund_ReferenceValueTypes.exe
+C:\Users\Admin\source\repos\MoshFund_ReferenceValueTypes\MoshFund_ReferenceValueTypes\obj\Debug\MoshFund_ReferenceValueTypes.pdb

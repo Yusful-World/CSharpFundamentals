@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_NonPrimitiveDataType\MoshFund_NonPrimitiveDataType\bin\Debug\MoshFund_NonPrimitiveDataType.exe.config
+C:\Users\Admin\source\repos\MoshFund_NonPrimitiveDataType\MoshFund_NonPrimitiveDataType\bin\Debug\MoshFund_NonPrimitiveDataType.exe
+C:\Users\Admin\source\repos\MoshFund_NonPrimitiveDataType\MoshFund_NonPrimitiveDataType\bin\Debug\MoshFund_NonPrimitiveDataType.pdb
+C:\Users\Admin\source\repos\MoshFund_NonPrimitiveDataType\MoshFund_NonPrimitiveDataType\obj\Debug\MoshFund_NonPrimitiveDataType.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_NonPrimitiveDataType\MoshFund_NonPrimitiveDataType\obj\Debug\MoshFund_NonPrimitiveDataType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_NonPrimitiveDataType\MoshFund_NonPrimitiveDataType\obj\Debug\MoshFund_NonPrimitiveDataType.exe
+C:\Users\Admin\source\repos\MoshFund_NonPrimitiveDataType\MoshFund_NonPrimitiveDataType\obj\Debug\MoshFund_NonPrimitiveDataType.pdb
