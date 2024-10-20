@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_Strings\MoshFund_Strings\bin\Debug\MoshFund_Strings.exe.config
+C:\Users\Admin\source\repos\MoshFund_Strings\MoshFund_Strings\bin\Debug\MoshFund_Strings.exe
+C:\Users\Admin\source\repos\MoshFund_Strings\MoshFund_Strings\bin\Debug\MoshFund_Strings.pdb
+C:\Users\Admin\source\repos\MoshFund_Strings\MoshFund_Strings\obj\Debug\MoshFund_Strings.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_Strings\MoshFund_Strings\obj\Debug\MoshFund_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_Strings\MoshFund_Strings\obj\Debug\MoshFund_Strings.exe
+C:\Users\Admin\source\repos\MoshFund_Strings\MoshFund_Strings\obj\Debug\MoshFund_Strings.pdb

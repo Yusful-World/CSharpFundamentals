@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC79F6F8-3C19-4973-837F-F921F5FF5099}|MoshFund_StringBuilder\\MoshFund_StringBuilder.csproj|c:\\users\\admin\\source\\repos\\moshfund_strings\\moshfund_stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC79F6F8-3C19-4973-837F-F921F5FF5099}|MoshFund_StringBuilder\\MoshFund_StringBuilder.csproj|solutionrelative:moshfund_stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09E384E-A5B9-4245-8D0B-14290BC3BC11}|MoshFund_Strings\\MoshFund_Strings.csproj|c:\\users\\admin\\source\\repos\\moshfund_strings\\moshfund_strings\\stringmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09E384E-A5B9-4245-8D0B-14290BC3BC11}|MoshFund_Strings\\MoshFund_Strings.csproj|solutionrelative:moshfund_strings\\stringmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09E384E-A5B9-4245-8D0B-14290BC3BC11}|MoshFund_Strings\\MoshFund_Strings.csproj|c:\\users\\admin\\source\\repos\\moshfund_strings\\moshfund_strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09E384E-A5B9-4245-8D0B-14290BC3BC11}|MoshFund_Strings\\MoshFund_Strings.csproj|solutionrelative:moshfund_strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09E384E-A5B9-4245-8D0B-14290BC3BC11}|MoshFund_Strings\\MoshFund_Strings.csproj|c:\\users\\admin\\source\\repos\\moshfund_strings\\moshfund_strings\\summarizingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09E384E-A5B9-4245-8D0B-14290BC3BC11}|MoshFund_Strings\\MoshFund_Strings.csproj|solutionrelative:moshfund_strings\\summarizingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "MoshFund_StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_StringBuilder\\Program.cs",
+              "RelativeToolTip": "MoshFund_StringBuilder\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:03:18.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_Strings\\StringMethods.cs",
+              "RelativeDocumentMoniker": "MoshFund_Strings\\StringMethods.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_Strings\\StringMethods.cs",
+              "RelativeToolTip": "MoshFund_Strings\\StringMethods.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:57:14.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SummarizingText.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_Strings\\SummarizingText.cs",
+              "RelativeDocumentMoniker": "MoshFund_Strings\\SummarizingText.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_Strings\\SummarizingText.cs",
+              "RelativeToolTip": "MoshFund_Strings\\SummarizingText.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:41:36.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_Strings\\Program.cs",
+              "RelativeDocumentMoniker": "MoshFund_Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_Strings\\MoshFund_Strings\\Program.cs",
+              "RelativeToolTip": "MoshFund_Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:59:33.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

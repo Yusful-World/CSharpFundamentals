@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_ProceduralProgramming\MoshFund_File_FileInfo\bin\Debug\MoshFund_File_FileInfo.exe.config
+C:\Users\Admin\source\repos\MoshFund_ProceduralProgramming\MoshFund_File_FileInfo\bin\Debug\MoshFund_File_FileInfo.exe
+C:\Users\Admin\source\repos\MoshFund_ProceduralProgramming\MoshFund_File_FileInfo\bin\Debug\MoshFund_File_FileInfo.pdb
+C:\Users\Admin\source\repos\MoshFund_ProceduralProgramming\MoshFund_File_FileInfo\obj\Debug\MoshFund_FileAndDirectory.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_ProceduralProgramming\MoshFund_File_FileInfo\obj\Debug\MoshFund_FileAndDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_ProceduralProgramming\MoshFund_File_FileInfo\obj\Debug\MoshFund_File_FileInfo.exe
+C:\Users\Admin\source\repos\MoshFund_ProceduralProgramming\MoshFund_File_FileInfo\obj\Debug\MoshFund_File_FileInfo.pdb

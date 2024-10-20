@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_LoopExercises\MoshFund_LoopExercises\bin\Debug\MoshFund_LoopExercises.exe.config
+C:\Users\Admin\source\repos\MoshFund_LoopExercises\MoshFund_LoopExercises\bin\Debug\MoshFund_LoopExercises.exe
+C:\Users\Admin\source\repos\MoshFund_LoopExercises\MoshFund_LoopExercises\bin\Debug\MoshFund_LoopExercises.pdb
+C:\Users\Admin\source\repos\MoshFund_LoopExercises\MoshFund_LoopExercises\obj\Debug\MoshFund_LoopExercises.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_LoopExercises\MoshFund_LoopExercises\obj\Debug\MoshFund_LoopExercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_LoopExercises\MoshFund_LoopExercises\obj\Debug\MoshFund_LoopExercises.exe
+C:\Users\Admin\source\repos\MoshFund_LoopExercises\MoshFund_LoopExercises\obj\Debug\MoshFund_LoopExercises.pdb
