@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MoshFund_Conditionals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C41A0FE-ABD1-4F64-BE85-5B7FC47AD168}|MoshFund_Conditionals\\MoshFund_Conditionals.csproj|c:\\users\\admin\\source\\repos\\moshfund_conditionals\\moshfund_conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C41A0FE-ABD1-4F64-BE85-5B7FC47AD168}|MoshFund_Conditionals\\MoshFund_Conditionals.csproj|solutionrelative:moshfund_conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshFund_Conditionals\\MoshFund_Conditionals\\Program.cs",
+              "RelativeDocumentMoniker": "MoshFund_Conditionals\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshFund_Conditionals\\MoshFund_Conditionals\\Program.cs*",
+              "RelativeToolTip": "MoshFund_Conditionals\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:51:19.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

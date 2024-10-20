@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_ConditionalExercises\MoshFund_ConditionalExercises\bin\Debug\MoshFund_ConditionalExercises.exe.config
+C:\Users\Admin\source\repos\MoshFund_ConditionalExercises\MoshFund_ConditionalExercises\bin\Debug\MoshFund_ConditionalExercises.exe
+C:\Users\Admin\source\repos\MoshFund_ConditionalExercises\MoshFund_ConditionalExercises\bin\Debug\MoshFund_ConditionalExercises.pdb
+C:\Users\Admin\source\repos\MoshFund_ConditionalExercises\MoshFund_ConditionalExercises\obj\Debug\MoshFund_ConditionalExercises.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_ConditionalExercises\MoshFund_ConditionalExercises\obj\Debug\MoshFund_ConditionalExercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_ConditionalExercises\MoshFund_ConditionalExercises\obj\Debug\MoshFund_ConditionalExercises.exe
+C:\Users\Admin\source\repos\MoshFund_ConditionalExercises\MoshFund_ConditionalExercises\obj\Debug\MoshFund_ConditionalExercises.pdb
