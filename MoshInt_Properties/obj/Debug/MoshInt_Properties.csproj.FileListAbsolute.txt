@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_Properties\bin\Debug\MoshInt_Properties.exe.config
+C:\Users\Admin\source\repos\MoshInt_Properties\bin\Debug\MoshInt_Properties.exe
+C:\Users\Admin\source\repos\MoshInt_Properties\bin\Debug\MoshInt_Properties.pdb
+C:\Users\Admin\source\repos\MoshInt_Properties\obj\Debug\MoshInt_Properties.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Properties\obj\Debug\MoshInt_Properties.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Properties\obj\Debug\MoshInt_Properties.exe
+C:\Users\Admin\source\repos\MoshInt_Properties\obj\Debug\MoshInt_Properties.pdb

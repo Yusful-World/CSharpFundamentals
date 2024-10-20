@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\MoshInt_Composition\bin\Debug\MoshInt_Composition.dll
+C:\Users\Admin\source\repos\MoshInt_Composition\bin\Debug\MoshInt_Composition.pdb
+C:\Users\Admin\source\repos\MoshInt_Composition\obj\Debug\MoshInt_Composition.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Composition\obj\Debug\MoshInt_Composition.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Composition\obj\Debug\MoshInt_Composition.dll
+C:\Users\Admin\source\repos\MoshInt_Composition\obj\Debug\MoshInt_Composition.pdb

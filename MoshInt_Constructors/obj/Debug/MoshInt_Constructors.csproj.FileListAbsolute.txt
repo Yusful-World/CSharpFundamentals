@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MoshInt_Constructors\bin\Debug\MoshInt_Constructors.exe.config
+C:\Users\Admin\source\repos\MoshInt_Constructors\bin\Debug\MoshInt_Constructors.exe
+C:\Users\Admin\source\repos\MoshInt_Constructors\bin\Debug\MoshInt_Constructors.pdb
+C:\Users\Admin\source\repos\MoshInt_Constructors\obj\Debug\MoshInt_Constructors.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Constructors\obj\Debug\MoshInt_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Constructors\obj\Debug\MoshInt_Constructors.exe
+C:\Users\Admin\source\repos\MoshInt_Constructors\obj\Debug\MoshInt_Constructors.pdb
+C:\Users\Admin\source\repos\MoshInt_Constructors\bin\Debug\Constructors_Inheritance.dll
+C:\Users\Admin\source\repos\MoshInt_Constructors\bin\Debug\Constructors_Inheritance.pdb
+C:\Users\Admin\source\repos\MoshInt_Constructors\obj\Debug\MoshInt_.373CD299.Up2Date

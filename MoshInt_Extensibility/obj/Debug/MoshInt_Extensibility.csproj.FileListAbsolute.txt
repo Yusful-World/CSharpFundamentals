@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_Extensibility\obj\Debug\MoshInt_Extensibility.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Extensibility\obj\Debug\MoshInt_Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Extensibility\bin\Debug\MoshInt_Extensibility.exe.config
+C:\Users\Admin\source\repos\MoshInt_Extensibility\bin\Debug\MoshInt_Extensibility.exe
+C:\Users\Admin\source\repos\MoshInt_Extensibility\bin\Debug\MoshInt_Extensibility.pdb
+C:\Users\Admin\source\repos\MoshInt_Extensibility\obj\Debug\MoshInt_Extensibility.exe
+C:\Users\Admin\source\repos\MoshInt_Extensibility\obj\Debug\MoshInt_Extensibility.pdb

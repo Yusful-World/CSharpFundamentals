@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_AbstractClasses\bin\Debug\MoshInt_AbstractClasses.exe.config
+C:\Users\Admin\source\repos\MoshInt_AbstractClasses\bin\Debug\MoshInt_AbstractClasses.exe
+C:\Users\Admin\source\repos\MoshInt_AbstractClasses\bin\Debug\MoshInt_AbstractClasses.pdb
+C:\Users\Admin\source\repos\MoshInt_AbstractClasses\obj\Debug\MoshInt_AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_AbstractClasses\obj\Debug\MoshInt_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_AbstractClasses\obj\Debug\MoshInt_AbstractClasses.exe
+C:\Users\Admin\source\repos\MoshInt_AbstractClasses\obj\Debug\MoshInt_AbstractClasses.pdb

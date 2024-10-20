@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_Upcasting_DownCasting\bin\Debug\MoshInt_Upcasting_DownCasting.exe.config
+C:\Users\Admin\source\repos\MoshInt_Upcasting_DownCasting\bin\Debug\MoshInt_Upcasting_DownCasting.exe
+C:\Users\Admin\source\repos\MoshInt_Upcasting_DownCasting\bin\Debug\MoshInt_Upcasting_DownCasting.pdb
+C:\Users\Admin\source\repos\MoshInt_Upcasting_DownCasting\obj\Debug\MoshInt_Upcasting_DownCasting.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Upcasting_DownCasting\obj\Debug\MoshInt_Upcasting_DownCasting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Upcasting_DownCasting\obj\Debug\MoshInt_Upcasting_DownCasting.exe
+C:\Users\Admin\source\repos\MoshInt_Upcasting_DownCasting\obj\Debug\MoshInt_Upcasting_DownCasting.pdb

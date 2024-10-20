@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoshInt_Inheritance", "MoshInt_Inheritance.csproj", "{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoshInt_Composition", "..\MoshInt_Composition\MoshInt_Composition.csproj", "{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7814ECA-90F2-4B14-927A-5E00C5B2956E}
+	EndGlobalSection
+EndGlobal

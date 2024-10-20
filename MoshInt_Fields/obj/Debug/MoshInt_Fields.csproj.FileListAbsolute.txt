@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_Fields\bin\Debug\MoshInt_Fields.exe.config
+C:\Users\Admin\source\repos\MoshInt_Fields\bin\Debug\MoshInt_Fields.exe
+C:\Users\Admin\source\repos\MoshInt_Fields\bin\Debug\MoshInt_Fields.pdb
+C:\Users\Admin\source\repos\MoshInt_Fields\obj\Debug\MoshInt_Fields.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Fields\obj\Debug\MoshInt_Fields.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Fields\obj\Debug\MoshInt_Fields.exe
+C:\Users\Admin\source\repos\MoshInt_Fields\obj\Debug\MoshInt_Fields.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_Interfaces\bin\Debug\MoshInt_Interfaces.exe.config
+C:\Users\Admin\source\repos\MoshInt_Interfaces\bin\Debug\MoshInt_Interfaces.exe
+C:\Users\Admin\source\repos\MoshInt_Interfaces\bin\Debug\MoshInt_Interfaces.pdb
+C:\Users\Admin\source\repos\MoshInt_Interfaces\obj\Debug\MoshInt_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Interfaces\obj\Debug\MoshInt_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Interfaces\obj\Debug\MoshInt_Interfaces.exe
+C:\Users\Admin\source\repos\MoshInt_Interfaces\obj\Debug\MoshInt_Interfaces.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_Inheritance_Composition\bin\Debug\MoshInt_Inheritance_Composition.exe.config
+C:\Users\Admin\source\repos\MoshInt_Inheritance_Composition\bin\Debug\MoshInt_Inheritance_Composition.exe
+C:\Users\Admin\source\repos\MoshInt_Inheritance_Composition\bin\Debug\MoshInt_Inheritance_Composition.pdb
+C:\Users\Admin\source\repos\MoshInt_Inheritance_Composition\obj\Debug\MoshInt_Inheritance_Composition.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_Inheritance_Composition\obj\Debug\MoshInt_Inheritance_Composition.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_Inheritance_Composition\obj\Debug\MoshInt_Inheritance_Composition.exe
+C:\Users\Admin\source\repos\MoshInt_Inheritance_Composition\obj\Debug\MoshInt_Inheritance_Composition.pdb

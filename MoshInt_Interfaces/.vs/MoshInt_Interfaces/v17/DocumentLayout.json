@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|c:\\users\\admin\\source\\repos\\moshint_interfaces\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|solutionrelative:shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|c:\\users\\admin\\source\\repos\\moshint_interfaces\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|solutionrelative:orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FBC70C-D6B2-4755-BFDB-ED6F1248487B}|..\\Interface.UnitTest\\Interface.UnitTest.csproj|c:\\users\\admin\\source\\repos\\interface.unittest\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|c:\\users\\admin\\source\\repos\\moshint_interfaces\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|c:\\users\\admin\\source\\repos\\moshint_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F72872-2D75-4103-8A90-D207DCCFDE4E}|MoshInt_Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:14:54.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\OrderProcessor.cs",
+              "RelativeToolTip": "OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:54:52.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShippingCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\ShippingCalculator.cs",
+              "RelativeDocumentMoniker": "ShippingCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\ShippingCalculator.cs",
+              "RelativeToolTip": "ShippingCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:39:56.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Interface.UnitTest\\OrderProcessorTests.cs",
+              "RelativeDocumentMoniker": "..\\Interface.UnitTest\\OrderProcessorTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Interface.UnitTest\\OrderProcessorTests.cs",
+              "RelativeToolTip": "..\\Interface.UnitTest\\OrderProcessorTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:21:54.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:48:38.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

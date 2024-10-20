@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MoshInt_Inheritance_Composition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}|MoshInt_Inheritance_Composition.csproj|c:\\users\\admin\\source\\repos\\moshint_inheritance_composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}|MoshInt_Inheritance_Composition.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}|..\\MoshInt_Composition\\MoshInt_Composition.csproj|c:\\users\\admin\\source\\repos\\moshint_composition\\installer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}|..\\MoshInt_Composition\\MoshInt_Composition.csproj|c:\\users\\admin\\source\\repos\\moshint_composition\\dbmigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FE973D-F56C-4EA9-ABFB-1FA27BC97DBA}|..\\MoshInt_Composition\\MoshInt_Composition.csproj|c:\\users\\admin\\source\\repos\\moshint_composition\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}|MoshInt_Inheritance_Composition.csproj|c:\\users\\admin\\source\\repos\\moshint_inheritance_composition\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}|MoshInt_Inheritance_Composition.csproj|solutionrelative:text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}|MoshInt_Inheritance_Composition.csproj|c:\\users\\admin\\source\\repos\\moshint_inheritance_composition\\presentationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE1D8E1-27C2-40A5-B8E3-52AE8ADA5C23}|MoshInt_Inheritance_Composition.csproj|solutionrelative:presentationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Installer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Composition\\Installer.cs",
+              "RelativeDocumentMoniker": "..\\MoshInt_Composition\\Installer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Composition\\Installer.cs",
+              "RelativeToolTip": "..\\MoshInt_Composition\\Installer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:57:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Composition\\Logger.cs",
+              "RelativeDocumentMoniker": "..\\MoshInt_Composition\\Logger.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Composition\\Logger.cs",
+              "RelativeToolTip": "..\\MoshInt_Composition\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:57:03.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbMigrator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Composition\\DbMigrator.cs",
+              "RelativeDocumentMoniker": "..\\MoshInt_Composition\\DbMigrator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Composition\\DbMigrator.cs",
+              "RelativeToolTip": "..\\MoshInt_Composition\\DbMigrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:55:13.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Inheritance_Composition\\Text.cs",
+              "RelativeDocumentMoniker": "Text.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Inheritance_Composition\\Text.cs",
+              "RelativeToolTip": "Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:00:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PresentationObject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Inheritance_Composition\\PresentationObject.cs",
+              "RelativeDocumentMoniker": "PresentationObject.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Inheritance_Composition\\PresentationObject.cs",
+              "RelativeToolTip": "PresentationObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:56:18.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshInt_Inheritance_Composition\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshInt_Inheritance_Composition\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:53:24.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

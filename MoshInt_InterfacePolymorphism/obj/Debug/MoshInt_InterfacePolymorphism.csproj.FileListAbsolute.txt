@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_InterfacePolymorphism\bin\Debug\MoshInt_InterfacePolymorphism.exe.config
+C:\Users\Admin\source\repos\MoshInt_InterfacePolymorphism\bin\Debug\MoshInt_InterfacePolymorphism.exe
+C:\Users\Admin\source\repos\MoshInt_InterfacePolymorphism\bin\Debug\MoshInt_InterfacePolymorphism.pdb
+C:\Users\Admin\source\repos\MoshInt_InterfacePolymorphism\obj\Debug\MoshInt_InterfacePolymorphism.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_InterfacePolymorphism\obj\Debug\MoshInt_InterfacePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_InterfacePolymorphism\obj\Debug\MoshInt_InterfacePolymorphism.exe
+C:\Users\Admin\source\repos\MoshInt_InterfacePolymorphism\obj\Debug\MoshInt_InterfacePolymorphism.pdb

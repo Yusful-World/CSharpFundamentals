@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshInt_MethodOverride\bin\Debug\MoshInt_MethodOverride.exe.config
+C:\Users\Admin\source\repos\MoshInt_MethodOverride\bin\Debug\MoshInt_MethodOverride.exe
+C:\Users\Admin\source\repos\MoshInt_MethodOverride\bin\Debug\MoshInt_MethodOverride.pdb
+C:\Users\Admin\source\repos\MoshInt_MethodOverride\obj\Debug\MoshInt_MethodOverride.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshInt_MethodOverride\obj\Debug\MoshInt_MethodOverride.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshInt_MethodOverride\obj\Debug\MoshInt_MethodOverride.exe
+C:\Users\Admin\source\repos\MoshInt_MethodOverride\obj\Debug\MoshInt_MethodOverride.pdb
