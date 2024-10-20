@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_Arrays\MoshFund_Arrays\bin\Debug\MoshFund_Arrays.exe.config
+C:\Users\Admin\source\repos\MoshFund_Arrays\MoshFund_Arrays\bin\Debug\MoshFund_Arrays.exe
+C:\Users\Admin\source\repos\MoshFund_Arrays\MoshFund_Arrays\bin\Debug\MoshFund_Arrays.pdb
+C:\Users\Admin\source\repos\MoshFund_Arrays\MoshFund_Arrays\obj\Debug\MoshFund_Arrays_Lists.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_Arrays\MoshFund_Arrays\obj\Debug\MoshFund_Arrays_Lists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_Arrays\MoshFund_Arrays\obj\Debug\MoshFund_Arrays.exe
+C:\Users\Admin\source\repos\MoshFund_Arrays\MoshFund_Arrays\obj\Debug\MoshFund_Arrays.pdb
