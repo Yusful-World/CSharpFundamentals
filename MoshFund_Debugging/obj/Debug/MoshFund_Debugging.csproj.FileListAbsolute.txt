@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_Debugging\bin\Debug\MoshFund_Debugging.exe.config
+C:\Users\Admin\source\repos\MoshFund_Debugging\bin\Debug\MoshFund_Debugging.exe
+C:\Users\Admin\source\repos\MoshFund_Debugging\bin\Debug\MoshFund_Debugging.pdb
+C:\Users\Admin\source\repos\MoshFund_Debugging\obj\Debug\MoshFund_Debugging.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_Debugging\obj\Debug\MoshFund_Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_Debugging\obj\Debug\MoshFund_Debugging.exe
+C:\Users\Admin\source\repos\MoshFund_Debugging\obj\Debug\MoshFund_Debugging.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshFund_DateTime\MoshFund_DateTime\bin\Debug\MoshFund_DateTime.exe.config
+C:\Users\Admin\source\repos\MoshFund_DateTime\MoshFund_DateTime\bin\Debug\MoshFund_DateTime.exe
+C:\Users\Admin\source\repos\MoshFund_DateTime\MoshFund_DateTime\bin\Debug\MoshFund_DateTime.pdb
+C:\Users\Admin\source\repos\MoshFund_DateTime\MoshFund_DateTime\obj\Debug\MoshFund_DateTime.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshFund_DateTime\MoshFund_DateTime\obj\Debug\MoshFund_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshFund_DateTime\MoshFund_DateTime\obj\Debug\MoshFund_DateTime.exe
+C:\Users\Admin\source\repos\MoshFund_DateTime\MoshFund_DateTime\obj\Debug\MoshFund_DateTime.pdb
