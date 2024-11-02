@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\bin\Debug\MoshAdvance_Async_Await.exe.config
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\bin\Debug\MoshAdvance_Async_Await.exe
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\bin\Debug\MoshAdvance_Async_Await.pdb
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await_MarkupCompile.cache
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await_MarkupCompile.lref
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await.g.resources
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await.Properties.Resources.resources
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await.exe
+C:\Users\Admin\source\repos\MoshAdvance_Async_Await\obj\Debug\MoshAdvance_Async_Await.pdb
