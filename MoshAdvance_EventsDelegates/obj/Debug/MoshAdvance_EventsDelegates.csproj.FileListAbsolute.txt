@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshAdvance_EventsDelegates\bin\Debug\MoshAdvance_EventsDelegates.exe.config
+C:\Users\Admin\source\repos\MoshAdvance_EventsDelegates\bin\Debug\MoshAdvance_EventsDelegates.exe
+C:\Users\Admin\source\repos\MoshAdvance_EventsDelegates\bin\Debug\MoshAdvance_EventsDelegates.pdb
+C:\Users\Admin\source\repos\MoshAdvance_EventsDelegates\obj\Debug\MoshAdvance_EventsDelegates.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshAdvance_EventsDelegates\obj\Debug\MoshAdvance_EventsDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshAdvance_EventsDelegates\obj\Debug\MoshAdvance_EventsDelegates.exe
+C:\Users\Admin\source\repos\MoshAdvance_EventsDelegates\obj\Debug\MoshAdvance_EventsDelegates.pdb

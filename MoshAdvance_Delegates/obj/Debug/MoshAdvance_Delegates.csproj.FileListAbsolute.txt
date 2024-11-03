@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshAdvance_Delegates\bin\Debug\MoshAdvance_Delegates.exe.config
+C:\Users\Admin\source\repos\MoshAdvance_Delegates\bin\Debug\MoshAdvance_Delegates.exe
+C:\Users\Admin\source\repos\MoshAdvance_Delegates\bin\Debug\MoshAdvance_Delegates.pdb
+C:\Users\Admin\source\repos\MoshAdvance_Delegates\obj\Debug\MoshAdvance_Delegates.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshAdvance_Delegates\obj\Debug\MoshAdvance_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshAdvance_Delegates\obj\Debug\MoshAdvance_Delegates.exe
+C:\Users\Admin\source\repos\MoshAdvance_Delegates\obj\Debug\MoshAdvance_Delegates.pdb

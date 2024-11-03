@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|c:\\users\\admin\\source\\repos\\moshadvance_eventsdelegates\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|solutionrelative:videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|c:\\users\\admin\\source\\repos\\moshadvance_eventsdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|c:\\users\\admin\\source\\repos\\moshadvance_eventsdelegates\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|solutionrelative:messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|c:\\users\\admin\\source\\repos\\moshadvance_eventsdelegates\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482611D1-3AF2-48C3-A211-480E3872A3FE}|MoshAdvance_EventsDelegates.csproj|solutionrelative:mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\MessageService.cs",
+              "RelativeDocumentMoniker": "MessageService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\MessageService.cs",
+              "RelativeToolTip": "MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:13:53.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\MailService.cs",
+              "RelativeDocumentMoniker": "MailService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\MailService.cs",
+              "RelativeToolTip": "MailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:00:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoEncoder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\VideoEncoder.cs",
+              "RelativeDocumentMoniker": "VideoEncoder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\VideoEncoder.cs",
+              "RelativeToolTip": "VideoEncoder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:30:34.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_EventsDelegates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:09:39.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
