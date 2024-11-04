@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshAdvance_Generics\bin\Debug\MoshAdvance_Generics.exe.config
+C:\Users\Admin\source\repos\MoshAdvance_Generics\bin\Debug\MoshAdvance_Generics.exe
+C:\Users\Admin\source\repos\MoshAdvance_Generics\bin\Debug\MoshAdvance_Generics.pdb
+C:\Users\Admin\source\repos\MoshAdvance_Generics\obj\Debug\MoshAdvance_Generics.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshAdvance_Generics\obj\Debug\MoshAdvance_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshAdvance_Generics\obj\Debug\MoshAdvance_Generics.exe
+C:\Users\Admin\source\repos\MoshAdvance_Generics\obj\Debug\MoshAdvance_Generics.pdb

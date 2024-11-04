@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|c:\\users\\admin\\source\\repos\\moshadvance_generics\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|solutionrelative:utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|c:\\users\\admin\\source\\repos\\moshadvance_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|c:\\users\\admin\\source\\repos\\moshadvance_generics\\discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|solutionrelative:discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|c:\\users\\admin\\source\\repos\\moshadvance_generics\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|c:\\users\\admin\\source\\repos\\moshadvance_generics\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|solutionrelative:genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|c:\\users\\admin\\source\\repos\\moshadvance_generics\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167B11FF-B31B-4676-ABAD-EDF5BB0403CB}|MoshAdvance_Generics.csproj|solutionrelative:booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\DiscountCalculator.cs",
+              "RelativeDocumentMoniker": "DiscountCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\DiscountCalculator.cs",
+              "RelativeToolTip": "DiscountCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:59:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\Utilities.cs",
+              "RelativeDocumentMoniker": "Utilities.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\Utilities.cs",
+              "RelativeToolTip": "Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:43:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\GenericList.cs",
+              "RelativeDocumentMoniker": "GenericList.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\GenericList.cs",
+              "RelativeToolTip": "GenericList.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:25:38.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\BookList.cs",
+              "RelativeDocumentMoniker": "BookList.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\BookList.cs",
+              "RelativeToolTip": "BookList.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:22:16.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MoshAdvance_Generics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:03:25.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
