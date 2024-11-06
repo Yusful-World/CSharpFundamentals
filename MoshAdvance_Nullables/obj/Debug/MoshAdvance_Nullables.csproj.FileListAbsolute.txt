@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshAdvance_Nullables\bin\Debug\MoshAdvance_Nullables.exe.config
+C:\Users\Admin\source\repos\MoshAdvance_Nullables\bin\Debug\MoshAdvance_Nullables.exe
+C:\Users\Admin\source\repos\MoshAdvance_Nullables\bin\Debug\MoshAdvance_Nullables.pdb
+C:\Users\Admin\source\repos\MoshAdvance_Nullables\obj\Debug\MoshAdvance_Nullables.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshAdvance_Nullables\obj\Debug\MoshAdvance_Nullables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshAdvance_Nullables\obj\Debug\MoshAdvance_Nullables.exe
+C:\Users\Admin\source\repos\MoshAdvance_Nullables\obj\Debug\MoshAdvance_Nullables.pdb
