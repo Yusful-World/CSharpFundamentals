@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MoshAdvance_LambdaExpression\bin\Debug\MoshAdvance_LambdaExpression.exe.config
+C:\Users\Admin\source\repos\MoshAdvance_LambdaExpression\bin\Debug\MoshAdvance_LambdaExpression.exe
+C:\Users\Admin\source\repos\MoshAdvance_LambdaExpression\bin\Debug\MoshAdvance_LambdaExpression.pdb
+C:\Users\Admin\source\repos\MoshAdvance_LambdaExpression\obj\Debug\MoshAdvance_LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MoshAdvance_LambdaExpression\obj\Debug\MoshAdvance_LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MoshAdvance_LambdaExpression\obj\Debug\MoshAdvance_LambdaExpression.exe
+C:\Users\Admin\source\repos\MoshAdvance_LambdaExpression\obj\Debug\MoshAdvance_LambdaExpression.pdb
