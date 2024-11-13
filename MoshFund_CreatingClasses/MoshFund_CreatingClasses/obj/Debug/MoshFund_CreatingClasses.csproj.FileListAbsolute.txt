@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\MoshFund_CreatingClasses\MoshFund_CreatingClasses\bin\Debug\MoshFund_CreatingClasses.exe.config
-C:\Users\Admin\source\repos\MoshFund_CreatingClasses\MoshFund_CreatingClasses\bin\Debug\MoshFund_CreatingClasses.exe
-C:\Users\Admin\source\repos\MoshFund_CreatingClasses\MoshFund_CreatingClasses\bin\Debug\MoshFund_CreatingClasses.pdb
-C:\Users\Admin\source\repos\MoshFund_CreatingClasses\MoshFund_CreatingClasses\obj\Debug\MoshFund_CreatingClasses.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\MoshFund_CreatingClasses\MoshFund_CreatingClasses\obj\Debug\MoshFund_CreatingClasses.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\MoshFund_CreatingClasses\MoshFund_CreatingClasses\obj\Debug\MoshFund_CreatingClasses.exe
-C:\Users\Admin\source\repos\MoshFund_CreatingClasses\MoshFund_CreatingClasses\obj\Debug\MoshFund_CreatingClasses.pdb
